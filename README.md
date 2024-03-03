@@ -1,4 +1,3 @@
----
 
 # Descripción de los Scripts
 
@@ -31,5 +30,3 @@ Estos scripts son generadores de tarjetas de presentación. Solicitan al usuario
 ## 07_en_searchwikipedia.py / 07_es_searchwikipedia.py
 
 Estos scripts son programas para buscar información en Wikipedia. Solicitan al usuario un término de búsqueda y recuperan un resumen del artículo correspondiente en Wikipedia.
-
----
